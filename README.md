@@ -26,14 +26,14 @@ The system is designed to reduce manual operational effort while preserving full
 
 ## Architecture
 
-
+````
 app/
 ├── main.py      # Orchestration & business flow
 ├── api.py       # External API interactions
 ├── auth.py      # Authentication & request headers
 ├── config.py    # Static rules, constants and parameters
 ├── rules.py     # Business rule helpers
-
+````
 
 ## Configuration
 
