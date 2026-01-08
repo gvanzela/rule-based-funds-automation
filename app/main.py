@@ -219,8 +219,8 @@ for guid_msg, regras in grupos.items():
     # =======================================================
 
     payload = {
-        "emailFrom": "sh-enquadramento@btgpactual.com",
-        "emailTo": "gabriel.vanzela@btgpactual.com",
+        "emailFrom": "***",
+        "emailTo": "***",
         "emailCc": "",
         "emailBcc": "",
         "subject": email_data.get("subject", "(no subject)"),
@@ -247,7 +247,7 @@ for guid_msg, regras in grupos.items():
     # OFFICIAL EMAIL PAYLOAD (PRODUCTION)
     # =======================================================
     # payload = {
-    #     "emailFrom": "sh-enquadramento@btgpactual.com",
+    #     "emailFrom": "***",
     #     "emailTo": email_data.get("to", ""),
     #     "emailCc": email_data.get("cc", ""),
     #     "emailBcc": email_data.get("bcc", ""),
