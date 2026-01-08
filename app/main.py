@@ -1,6 +1,6 @@
 # ===========================================================
 # main.py
-# Automatic justification (Type 1 – Asset) + consolidated email
+# Automatic justification + consolidated email
 # ===========================================================
 
 import os
