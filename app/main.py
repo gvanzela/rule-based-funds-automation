@@ -227,7 +227,7 @@ for guid_msg, regras in grupos.items():
         "body": email_data.get("body", ""),
         "assinatura": {
             "nome": "Enquadramento Team",
-            "email": "sh-enquadramento@btgpactual.com",
+            "email": "***",
             "setor": "Risk & Compliance",
             "telefone": "(11) 1234-5678",
         },
